@@ -506,9 +506,9 @@ export default function Home() {
               className="text-lg p-2 border  rounded text-center w-auto sm:w-auto md:w-auto lg:w-auto xl:w-auto  2xl:w-36">              
               <option value="tg" >TG(会失效)</option>
               <option value="tgchannel">TG_Channel</option>
-              <option value="r2">R2(未配置)</option>
+              <option value="r2">R2</option>
               {/* <option value="vviptuangou">vviptuangou</option> */}
-              <option value="58img">58img(未配置)</option>
+              <option value="58img">58img</option>
               {/* <option value="tencent">tencent</option> */}
             </select>
           </div>
